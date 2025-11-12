@@ -60,9 +60,10 @@ Average Years = AVERAGE('HR_Data'[Years_At_Company])
 
 
 
+```
 
 
-📈 Visuals Included
+## 📈 Visuals Included
 Visual	Purpose
 KPI Cards	Show high-level metrics like total employees, attrition rate, average income, etc.
 Bar Chart (Attrition by Department)	Identifies which departments have the highest attrition.
@@ -73,7 +74,10 @@ Line Chart (Training Times vs Job Satisfaction)	Visualizes the relationship betw
 Column Chart (Work Life Balance vs Job Satisfaction)	Shows how better balance leads to higher satisfaction.
 Bar Chart (Average Salary by Job Role)	Compares pay levels across different job roles.
 Demographics Chart (Department vs Attrition)	Shows employee count and attrition distribution.
-🧩 Insights & Findings
+
+
+
+## 🧩 Insights & Findings
 
 R&D and Sales departments show the highest attrition.
 
@@ -85,7 +89,7 @@ Average salary increases with tenure, indicating fair career progression.
 
 Male attrition slightly exceeds female attrition, suggesting possible workload imbalance.
 
-🧮 Technical Details
+## 🧮 Technical Details
 
 Tool Used: Microsoft Power BI
 
@@ -97,13 +101,13 @@ Joins: Not required — dataset already consolidated
 
 Filters/Slicers: Department, Gender, Education Field
 
-🎯 Conclusion
+## 🎯 Conclusion
 
 This HR Analytics Dashboard successfully highlights critical workforce patterns and engagement factors.
 It allows HR managers to monitor turnover rates, track satisfaction levels, and make better retention decisions.
 The insights suggest focusing on work-life balance, training opportunities, and retention strategies for high-attrition departments.
 
-👤 Author
+## 👤 Author
 
 Name: Somya Vats
 Institute: School of Computer Science, UPES Dehradun

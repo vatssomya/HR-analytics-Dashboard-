@@ -9,6 +9,12 @@ The goal of this project is to help the HR department understand factors affecti
 
 ---
 
+
+### 📸 Dashboard Preview
+![HR Analytics Dashboard](screenshot.jpg)
+
+---
+
 ## 🧠 Key Objectives
 - Analyze workforce composition and attrition patterns.  
 - Identify high-risk departments and age groups with higher turnover.  
